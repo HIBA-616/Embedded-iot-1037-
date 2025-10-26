@@ -1,0 +1,15 @@
+{
+  "oled": {
+    "width": 128,
+    "height": 64,
+    "i2c_address": "0x3C"
+  },
+  "pins": {
+    "led_red": 25,
+    "led_yellow": 26,
+    "led_green": 27,
+    "button_mode": 32,
+    "button_reset": 33,
+    "buzzer": 14
+  }
+}
